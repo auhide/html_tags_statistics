@@ -5,7 +5,7 @@ A statistic in regards to the symbol usage in almost every HTML tag.
 pip install -r requirements.txt
 ```
 
-2. Then have to run output/examine_csv.py
+2. Then you'll have to run output/examine_csv.py
 ```
 python examine_csv.py
 ```
