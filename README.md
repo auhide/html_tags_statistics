@@ -1,4 +1,4 @@
-A statistic in regards to the symbol usage in almost every HTML tag.
+A statistic in regards to the symbol usage of almost every HTML tag.
 
 1. Firstly, run this in the Terminal:
 ```
